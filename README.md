@@ -18,6 +18,12 @@ Shot map and cumulative xG race across all 120 minutes.
 
 ![Shot Map](Shot%20Map.png)
 
+### 2. ISL 2021/22 — Mumbai City 5–1 Mohun Bagan
+Three-angle breakdown: shot map, pass network, and pressing heatmap.
+Mumbai's xG was 3.12 vs Mohun Bagan's 0.53.
+
+📊 [Read on Substack](https://open.substack.com/pub/thespatialscoutt/p/how-mumbai-city-dismantled-mohun)
+
 ## About
 - 🐦 Twitter: [@SpatialScout](https://twitter.com/KunalNimbalkar9)
 - 📝 Substack: [Spatial Scout](https://thespatialscoutt.substack.com)
