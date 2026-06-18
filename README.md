@@ -16,7 +16,7 @@ Shot map and cumulative xG race across all 120 minutes.
 
 📊 [Read the full analysis on Substack](https://open.substack.com/pub/thespatialscoutt/p/argentina-didnt-just-win-the-2022)
 
-![Shot Map](world_cup_final_shotmap.png)
+![Shot Map](Shot Map.png)
 
 ## About
 - 🐦 Twitter: [@SpatialScout](https://twitter.com/KunalNimbalkar9)
