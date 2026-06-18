@@ -24,6 +24,23 @@ Mumbai's xG was 3.12 vs Mohun Bagan's 0.53.
 
 📊 [Read on Substack](https://open.substack.com/pub/thespatialscoutt/p/how-mumbai-city-dismantled-mohun)
 
+3. UEFA Euro 2024 Semi-Final — Spain vs France
+
+Player scouting dashboard focused on Lamine Yamal's performance using StatsBomb event data. Analysis included touch heatmaps, progressive passing, progressive carrying, and shot locations.
+
+Key findings:
+
+• 41 Ball Receipts
+• 83.3% Pass Accuracy
+• 7 Progressive Passes
+• 6 Progressive Carries
+• 3 Shots
+• 1 Goal
+
+The data showed a right-sided creator who combined ball progression and goal threat while maintaining possession efficiency in one of the biggest matches of the tournament.
+
+📊 Read the full analysis on Substack : (https://thespatialscoutt.substack.com/p/more-than-a-wonder-goal-analyzing?r=3hgxqg)
+
 ## About
 - 🐦 Twitter: [@SpatialScout](https://twitter.com/KunalNimbalkar9)
 - 📝 Substack: [Spatial Scout](https://thespatialscoutt.substack.com)
