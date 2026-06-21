@@ -1,47 +1,74 @@
-# Spatial Scout — Football Analytics
+# ⚽ The Spatial Scout
 
-Data analyst breaking down football through numbers, spatial analysis, and Python.
+Football Analytics | Scouting Intelligence
 
-## Tools & Stack
-- **Data:** StatsBomb Open Data
-- **Language:** Python
-- **Libraries:** mplsoccer, pandas, matplotlib, statsbombpy
+Data Analyst building football intelligence projects using Python, StatsBomb Open Data, and spatial analysis.
 
-## Projects
+---
 
-### 1. 2022 World Cup Final — Argentina vs France
-Shot map and cumulative xG race across all 120 minutes.
+## Featured Projects
 
-**Key finding:** Argentina dominated xG for 80 minutes. France barely existed until Mbappe's extraordinary 10-minute burst took them from 0.1 to 2.5 xG.
+### 🇦🇷 Argentina vs France — FIFA World Cup Final 2022
+- Shot Map Analysis
+- xG Race Visualization
+- Match Narrative Breakdown
 
-📊 [Read the full analysis on Substack](https://open.substack.com/pub/thespatialscoutt/p/argentina-didnt-just-win-the-2022)
+📂 Match_Analysis/Argentina_vs_France_2022
 
-![Shot Map](Shot%20Map.png)
+---
 
-### 2. ISL 2021/22 — Mumbai City 5–1 Mohun Bagan
-Three-angle breakdown: shot map, pass network, and pressing heatmap.
-Mumbai's xG was 3.12 vs Mohun Bagan's 0.53.
+### 🇮🇳 Mumbai City vs Mohun Bagan — ISL Tactical Analysis
+- Pass Network Analysis
+- Pressing Heatmap
+- Possession Structure Analysis
 
-📊 [Read on Substack](https://open.substack.com/pub/thespatialscoutt/p/how-mumbai-city-dismantled-mohun)
+📂 Match_Analysis/Mumbai_vs_Mohun_Bagan
 
-3. UEFA Euro 2024 Semi-Final — Spain vs France
+---
 
-Player scouting dashboard focused on Lamine Yamal's performance using StatsBomb event data. Analysis included touch heatmaps, progressive passing, progressive carrying, and shot locations.
+### 🌟 Lamine Yamal Scouting Report
+- Progressive Actions
+- Attacking Output
+- Player Profiling
 
-Key findings:
+📂 Scouting_Reports/Lamine_Yamal
 
-• 41 Ball Receipts
-• 83.3% Pass Accuracy
-• 7 Progressive Passes
-• 6 Progressive Carries
-• 3 Shots
-• 1 Goal
+---
 
-The data showed a right-sided creator who combined ball progression and goal threat while maintaining possession efficiency in one of the biggest matches of the tournament.
+## Tech Stack
 
-📊 Read the full analysis on Substack : (https://thespatialscoutt.substack.com/p/more-than-a-wonder-goal-analyzing?r=3hgxqg)
+### Data
+- StatsBomb Open Data
 
-## About
-- 🐦 Twitter: [@SpatialScout](https://twitter.com/KunalNimbalkar9)
-- 📝 Substack: [Spatial Scout](https://thespatialscoutt.substack.com)
-- 📍 Mumbai, India
+### Languages
+- Python
+- SQL
+
+### Libraries
+- Pandas
+- NumPy
+- mplsoccer
+- Matplotlib
+- Seaborn
+- StatsBombPy
+
+---
+
+## Current Focus
+
+### World Cup 2026 Intelligence Hub
+
+Building:
+- Match Reviews
+- Tactical Analysis
+- Player Scouting Reports
+- Tournament Models
+- Data Visualizations
+
+---
+
+## Connect
+
+🐦 X/Twitter: @TheSpatialScout
+
+📝 Substack: The Spatial Scoutt
